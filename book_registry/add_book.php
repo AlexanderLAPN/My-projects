@@ -7,4 +7,5 @@
     <input type="file" name="photo" required><br> <!-- Добавляем поле для выбора изображения -->
     <input type="submit" value="Добавить книгу">
 </form>
+
 <a href="index.php">Назад к реестру</a>
