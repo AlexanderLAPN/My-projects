@@ -4,8 +4,9 @@
     <input type="text" name="publisher" placeholder="Издательство" required><br>
     <input type="text" name="year" placeholder="Год выпуска" required><br>
     <input type="text" name="pages" placeholder="Количество страниц" required><br>
-    <input type="file" name="photo" required><br> <!-- Добавляем поле для выбора изображения -->
+    <input type="file" name="photo" required><br>
     <input type="submit" value="Добавить книгу">
 </form>
 
 <a href="index.php">Назад к реестру</a>
+
